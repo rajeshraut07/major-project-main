@@ -110,3 +110,15 @@
 - Custom-designed page for invalid URLs.
 
 
+USEREND
+
+![Screenshot 2025-07-02 213829](https://github.com/user-attachments/assets/c0d60f19-c5b9-4a22-9ae8-2e32368c60d8)
+![Screenshot 2025-07-02 213750](https://github.com/user-attachments/assets/56eea96c-ff35-4e8d-923e-ff44c8b88e58)![Screenshot 2025-07-02 213847](https://github.com/user-attachments/assets/8e435af7-1813-413a-9075-d01bec31ed14)
+
+
+ADMINEND
+
+![Screenshot 2025-07-02 213929](https://github.com/user-attachments/assets/d80e10a0-9475-4979-a8d6-e231a1bb5a0d)
+
+
+
